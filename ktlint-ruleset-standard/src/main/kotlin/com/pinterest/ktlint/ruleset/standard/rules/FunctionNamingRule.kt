@@ -161,6 +161,8 @@ public class FunctionNamingRule :
                 "kotlin.test",
                 "org.junit",
                 "org.testng",
+                "org.amshove.kluent",
+                "org.spekframework.spek2"
             )
     }
 }
